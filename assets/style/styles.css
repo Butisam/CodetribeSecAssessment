@@ -1,0 +1,61 @@
+#headerTable{
+    width: 100%;
+
+}
+.logo{
+    width: 80%;
+}
+nav{
+    padding-right: 16px;
+
+}
+a{
+    margin-right: 16px;
+    color: black;
+}
+video{
+    width: 75% ;
+}
+#mainTable{
+    width: 100%;
+}
+.bioBox{
+    width: 70%;
+    text-align: left;
+}
+.btn{
+    padding: 16px;
+    border-radius: 10px;
+    font-size: medium;
+}
+.subBtn{
+    padding: 16px;
+    border-radius: 10px;
+    font-size: small;  
+}
+.icon{
+    color: blueviolet;
+    font-style: oblique;
+    font-size: xx-large;
+}
+img{
+    border: 3px;
+    border-radius: 30px;
+
+}
+body{
+    background-repeat:repeat;
+}
+.para{
+    font-size: large;
+    margin: 70px;
+    
+}
+h2{
+    font-style: italic;
+    margin: 70px;
+    
+}
+table{
+    border: 2px;
+}
